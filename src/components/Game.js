@@ -27,7 +27,7 @@ function Game() {
                 <td>7/20/2023 6:00PM</td>
                 <td>Sunny</td>
             </tr>
-            <tr>Additional games listed...</tr>
+            <tr>Additional games listed..</tr>
         </>
     );
 }
